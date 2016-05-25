@@ -29,13 +29,13 @@ translate([0,15.4,0]){
 		clearance = 0.0,
 		backlash = 0.0
 	);
-
+/*
 	// idler arm
 	translate([-5,2,-2.5]){
 		color("red")
 		cube([10,30,5]);
 	}
-
+*/
 	// idler axel
 	translate([0,0,-3]){
 		color("blue")
