@@ -48,8 +48,8 @@ difference(){
 
 	// bearings
 	// opening to hold bearing stator
-	translate([0,0,-3.5]){
-		cylinder(r=(22.5/2), h=20, $fn=75);
+	translate([0,0,-5.5]){
+		#cylinder(r=(22.5/2), h=20, $fn=75);
 	}
 
 	// opening for bearing rotor
