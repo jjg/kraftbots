@@ -1,4 +1,4 @@
-use <publicDomainGearV1.1.scad>
+use <./libraries/OpenSCAD/publicDomainGearV1.1.scad>
 
 // pinion
 
